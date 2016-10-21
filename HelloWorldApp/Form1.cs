@@ -22,5 +22,10 @@ namespace HelloWorldApp
             label1.Visible = true;
         }
 
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
     }
 }

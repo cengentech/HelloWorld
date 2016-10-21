@@ -1,0 +1,9 @@
+C:\GitHub\HelloWorld\HelloWorld\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+C:\GitHub\HelloWorld\HelloWorld\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+C:\GitHub\HelloWorld\HelloWorld\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+C:\GitHub\HelloWorld\HelloWorld\HelloWorldApp\obj\Debug\HelloWorldApp.csprojResolveAssemblyReference.cache
+C:\GitHub\HelloWorld\HelloWorld\HelloWorldApp\obj\Debug\HelloWorldApp.Form1.resources
+C:\GitHub\HelloWorld\HelloWorld\HelloWorldApp\obj\Debug\HelloWorldApp.Properties.Resources.resources
+C:\GitHub\HelloWorld\HelloWorld\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.GenerateResource.Cache
+C:\GitHub\HelloWorld\HelloWorld\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+C:\GitHub\HelloWorld\HelloWorld\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
